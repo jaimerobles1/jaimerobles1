@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaime, an <a href="https://www.linkedin.com/in/jaime-robles-348833188/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jaime, an <a href="https://linkedin.com/in/jaimerobles1">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -12,7 +12,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Jaime | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jaimerobles1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[linkedin]: [https://www.linkedin.com/in/jaime-robles-348833188/]
+[linkedin]: https://linkedin.com/in/jaimerobles1
